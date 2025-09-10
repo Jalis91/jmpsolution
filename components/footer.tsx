@@ -33,11 +33,11 @@ export default function Footer() {
             </p>
             <div className="flex flex-col gap-2">
               <a
-                href="tel:+33123456789"
+                href="tel:+33618476152"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary"
               >
                 <Phone className="h-4 w-4" />
-                <span>06 11 62 18 26</span>
+                <span>06 18 47 61 52</span>
               </a>
               <a
                 href="mailto:contact.jmpsolution@gmail.com"
