@@ -42,15 +42,13 @@ export default function Header() {
         <div className="flex items-center gap-6 md:gap-10">
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/jmp-logo.png"
+              src="/logo-transparent.png"
               alt="JMP Solutions Logo"
               width={204}
               height={204}
               className="h-12 w-12"
             />
-            <span className="hidden font-bold text-lg sm:inline-block">
-              JMP Solutions
-            </span>
+           
           </Link>
           <nav className="hidden gap-6 items-center md:flex">
             {/* Services Dropdown */}
@@ -128,7 +126,7 @@ export default function Header() {
                   onClick={() => setIsOpen(false)}
                 >
                   <Image
-                    src="/jmp-logo.png"
+                    src="/logo-transparent.png"
                     alt="JMP Solutions Logo"
                     width={204}
                     height={204}
@@ -137,11 +135,11 @@ export default function Header() {
                   <span className="font-bold text-xl">JMP Solutions</span>
                 </Link>
                 <a
-                  href="tel:+33611621826"
+                  href="tel:+33618476152"
                   className="flex items-center gap-2 text-primary font-bold mb-6"
                 >
                   <Phone className="h-4 w-4" />
-                  <span>06 11 62 18 26</span>
+                  <span>06 18 47 61 52</span>
                 </a>
                 <nav className="flex flex-col gap-4">
                   <div className="border-b pb-4">
