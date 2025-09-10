@@ -19,13 +19,13 @@ export default function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4">
               <Image
-                src="/jmp-logo.png"
+                src="/logo-transparent.png"
                 alt="JMP Solutions Logo"
-                width={40}
-                height={40}
-                className="h-12 w-12"
+                width={300}
+                height={300}
+                className="h-20 w-20"
               />
-              <span className="font-bold text-lg">JMP Solutions</span>
+          
             </Link>
             <p className="text-sm text-muted-foreground mb-4">
               Expert en installation, entretien et réparation de piscines, spas,
