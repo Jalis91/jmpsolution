@@ -44,9 +44,9 @@ export default function Header() {
             <Image
               src="/logo-transparent.png"
               alt="JMP Solutions Logo"
-              width={204}
-              height={204}
-              className="h-12 w-12"
+              width={300}
+              height={300}
+              className="h-20 w-20"
             />
            
           </Link>
