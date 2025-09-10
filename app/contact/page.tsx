@@ -121,10 +121,10 @@ export default function ContactPage() {
                       Disponible 24h/24 et 7j/7
                     </p>
                     <a
-                      href="tel:+33611621826"
+                      href="tel:+33618476152"
                       className="text-blue-600 font-medium"
                     >
-                      06 11 62 18 26
+                      06 18 47 61 52
                     </a>
                   </div>
                 </div>

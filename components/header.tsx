@@ -103,11 +103,11 @@ export default function Header() {
         </div>
         <div className="flex items-center gap-4">
           <a
-            href="tel:+33611621826"
+            href="tel:+33618476152"
             className="flex items-center gap-2 text-primary font-bold"
           >
             <Phone className="h-4 w-4" />
-            <span>06 11 62 18 26</span>
+            <span>06 18 47 61 52</span>
           </a>
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
             <SheetTrigger asChild>
